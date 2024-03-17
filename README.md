@@ -1,4 +1,4 @@
-GoLang + MongoDB + Redis RESTful Application Starter
+NodeJS + Express + Prisma RESTful Application Starter
 ----------------------------------------------------
 
 This project is a 'Boilerplate' or 'Starter' to build RESTful Applications and microservices using [ExpressJS](https://www.npmjs.com/package/express)
